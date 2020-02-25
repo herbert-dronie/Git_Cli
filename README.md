@@ -1,3 +1,4 @@
-# GIT for Windows
+# GIT  CLI installer
 
-via Chocolatey
+
+
