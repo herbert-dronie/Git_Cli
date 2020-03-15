@@ -2,4 +2,4 @@
 
 Easy way to install Git 
 
-Vale!!
+
